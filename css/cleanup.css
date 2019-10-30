@@ -15,14 +15,6 @@ body div#wall #tag-3.slick {
   display: none;
 }
 
-.parent #tag-5 {
-  display: none;
-}
-
-.parent div#tag-6 {
-  display: none;
-}
-
 body div#wall .parent #tag-5.slick {
   display: none;
 }
